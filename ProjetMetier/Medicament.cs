@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ProjetMetier
 {
-    public class Class1
+    public class Medicament
     {
+        private int idMedoc;
     }
 }
